@@ -1,3 +1,3 @@
 # proj_test
-test only
-hello world
+test only\n
+hello world\n
